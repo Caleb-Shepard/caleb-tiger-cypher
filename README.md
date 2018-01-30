@@ -15,7 +15,6 @@ cd caleb_tiger_cypher
 `
 <br />
 `
-`
 ./install.sh
 `
 
