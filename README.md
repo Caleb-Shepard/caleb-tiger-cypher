@@ -13,6 +13,7 @@ cd caleb_tiger_cypher
 `
 whoami@hostname$ ./cypher_name.sh some string that you want to be translated
 `
+<br />
 `
 detalsnart eb ot tnaw uoy taht gnirts emos
 `
