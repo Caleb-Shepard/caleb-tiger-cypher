@@ -4,8 +4,18 @@ Our cypher tools used for fun
 # Installation
 `
 mkdir -p ~/git && cd ~/git
+`
+<br />
+`
 git clone https://github.com/Caleb-Shepard/caleb_tiger_cypher
+`
+<br />
+`
 cd caleb_tiger_cypher
+`
+<br />
+`
+`
 ./install.sh
 `
 
