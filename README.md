@@ -12,12 +12,14 @@ cd caleb_tiger_cypher
 # Usage
 `
 whoami@hostname$ ./cypher_name.sh some string that you want to be translated
+`
+`
 detalsnart eb ot tnaw uoy taht gnirts emos
 `
 
 # Dependencies
-* [lolcat](https://github.com/busyloop/lolcat)
 * Your favorite \*NIX flavor with coreutils
+* [lolcat](https://github.com/busyloop/lolcat)
 
 # Contributors
 [Tiger Sachse](https://github.com/tgsachse)<br />
