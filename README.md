@@ -27,6 +27,12 @@ whoami@hostname$ ./cypher_name.sh some string that you want to be translated
 detalsnart eb ot tnaw uoy taht gnirts emos
 `
 
+CCC
+```
+$ ccc "My name is Gaius Julius Caesar"
+MY NAME IS GAIVS IVLIVS CAESAR
+```
+
 # Dependencies
 * Your favorite \*NIX flavor with coreutils
 * [lolcat](https://github.com/busyloop/lolcat)
